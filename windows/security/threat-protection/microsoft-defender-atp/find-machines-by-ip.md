@@ -24,7 +24,7 @@ ms.topic: article
 
 Find machines seen with the requested internal IP in the time range of 15 minutes prior and after a given timestamp.
 
-The given timestamp must be in the past 30 days.
+The given timestamp must be in the past 30 days and use UTC.
 
 ## Permissions
 One of the following permissions is required to call this API. To learn more, including how to choose permissions, see [Use Microsoft Defender ATP APIs](apis-intro.md)
